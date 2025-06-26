@@ -17,7 +17,7 @@ Features
 - 💰 Runs completely within the AWS Free Tier
 
 🧱 Architecture Overview
-![image](https://github.com/user-attachments/assets/1445e762-558b-4655-b7b4-9235caea1559)
+![123](https://github.com/user-attachments/assets/3136018c-20d8-4714-affa-aa472f74cee8)
 
 📁 Project Structure
 aws-translate-capstone/
