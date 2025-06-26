@@ -6,7 +6,7 @@ A fully serverless, multi-language translation application powered by AWS Transl
 
 Screenshot
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/7c4c1566-50c0-456e-a247-a9534d5f6532" />
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/7c4c1566-50c0-456e-a247-a9534d5f6532" />
+
 
 Features
 - 🌐 Translate between English,French, Spanish,Chinese, and Swahili
