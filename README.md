@@ -20,20 +20,9 @@ Features
 ![123](https://github.com/user-attachments/assets/3136018c-20d8-4714-affa-aa472f74cee8)
 
 📁 Project Structure
-aws-translate-capstone/
-├── cloudformation/
-│   └── infrastructure.yaml         # S3 buckets, IAM roles
-│
-├── lambda/
-│   └── lambda\_function.py          # Main translation handler
-│
-├── frontend/
-│   ├── index.html                  # Web UI
-│   └── translate.js                # JS logic for pre-signed URL + polling
-│
-├── sample\_input.json               # Example input file
-├── README.md                       # This file
-└── .gitignore                      # Optional
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/71cd7d59-21ff-433e-8ae2-40c7b9ad88b4" />
+
+
 
 🛠️ Technologies Used
 
