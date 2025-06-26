@@ -20,10 +20,10 @@ Features
 ![123](https://github.com/user-attachments/assets/3136018c-20d8-4714-affa-aa472f74cee8)
 
 📁 Project Structure
+
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/22da1a02-fb0c-4118-ab7a-bc066a3088a4" />
 
 🛠️ Technologies Used
-
 - AWS S3 – static website hosting + file storage
 - AWS Lambda – translation logic
 - AWS Translate – real-time translation API
