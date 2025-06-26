@@ -1,0 +1,8 @@
+{
+  "source_language_code": "en",
+  "target_language_code": "fr",
+  "text_list": [
+    "Hello, how are you?",
+    "This is a test using AWS Translate."
+  ]
+}
