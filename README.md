@@ -17,42 +17,7 @@ Features
 - 💰 Runs completely within the AWS Free Tier
 
 🧱 Architecture Overview
-+---------------------+
-\|     Web Browser     |
-\|  (index.html/JS UI) |
-+----------+----------+
-|
-v
-+----------+----------+
-\|  API Gateway (HTTP) |
-\|   /getPresignedURL  |
-+----------+----------+
-|
-v
-+----------+----------+
-\| Lambda: Return pre- |
-\| signed URL for S3   |
-+----------+----------+
-|
-v
-+----------+----------+
-\| Upload input.json to|
-\|  S3 Request Bucket   |
-+----------+----------+
-|
-v  (trigger)
-+----------+----------+
-\| Lambda: Translate   |
-\| text, store result  |
-\| in S3 Response Bucket|
-+----------+----------+
-|
-v
-+----------+----------+
-\| JS polls translated |
-\| file via S3 public  |
-\| URL + displays text |
-+---------------------+
+![image](https://github.com/user-attachments/assets/1445e762-558b-4655-b7b4-9235caea1559)
 
 📁 Project Structure
 aws-translate-capstone/
