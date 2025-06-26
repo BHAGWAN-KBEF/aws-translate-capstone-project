@@ -1,4 +1,4 @@
-🌍 AWS Translate Capstone Project
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/22da1a02-fb0c-4118-ab7a-bc066a3088a4" />🌍 AWS Translate Capstone Project
 
 A fully serverless, multi-language translation application powered by AWS Translate,Lambda, S3, and API Gateway. Users can submit text from a browser and receive translated results in real time — supporting English, French, Spanish, Chinese, and Swahili.
 
@@ -20,9 +20,7 @@ Features
 ![123](https://github.com/user-attachments/assets/3136018c-20d8-4714-affa-aa472f74cee8)
 
 📁 Project Structure
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/71cd7d59-21ff-433e-8ae2-40c7b9ad88b4" />
-
-
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/22da1a02-fb0c-4118-ab7a-bc066a3088a4" />
 
 🛠️ Technologies Used
 
